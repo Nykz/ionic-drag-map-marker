@@ -1,0 +1,7 @@
+{
+  "name": "drag-map-marker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
